@@ -171,6 +171,11 @@ img {
   fill: currentColor;
 }
 
+.header-link .header-contact {
+  display: flex;
+  align-items: center;
+}
+
 /* Hero */
 
 .hero {
