@@ -353,6 +353,7 @@ img {
   align-items: center;
   justify-content: center;
   fill: #ffffff;
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .join-soc-link:hover,
